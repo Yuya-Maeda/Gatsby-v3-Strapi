@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="348" height="83" viewBox="0 0 1048 100">
+  <defs>
+    <style>
+      .cls-1 {
+
+        font-size: 26px;
+        fill: #2a064f;
+        text-anchor: middle;
+        font-family: "Helvetica Neue";
+      }
+    </style>
+  </defs>
+  <text id="Gatsby_Strapi" data-name="Gatsby &amp; Strapi" class="cls-1" transform="translate(526.133 110.725) scale(4.199)"><tspan x="0">Gatsby &amp; Strapi</tspan></text>
+</svg>
