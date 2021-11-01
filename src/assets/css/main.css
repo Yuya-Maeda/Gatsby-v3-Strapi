@@ -413,7 +413,17 @@ Hero
   padding-top: 5rem;
   height: 100vh;
   background: var(--clr-primary-10);
+  background-image: "/src/assets/images/projects-4.jpg";
   position: relative;
+}
+.hero-bg-image {
+  position: absolute;
+  height: 100vh;
+  top: 0;
+  left: 0;
+
+  object-fit: cover;
+  filter: sepia(60%) hue-rotate(240deg) brightness(80%);
 }
 
 .hero-center {
@@ -457,6 +467,9 @@ Hero
     right: 0;
     bottom: 0;
     background: var(--clr-white);
+  }
+  .hero-bg-image {
+    right: 40vw;
   }
   .hero-center {
     grid-template-columns: repeat(12, 1fr);

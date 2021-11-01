@@ -30,7 +30,7 @@ const Jobs = () => {
   const { company, position, date, description } = jobs[value]
   return (
     <section className="section jobs">
-      <Title title="Experience" />
+      <Title title="Card Samples" />
       <div className="jobs-center">
         {/* btn container */}
         <div className="btn-container">

@@ -14,8 +14,8 @@ const Footer = () => {
           })}
         </div>
         <h4>
-          copyright &copy; {new Date().getFullYear()} <span>Yuya</span> all
-          right reserved
+          copyright &copy; {new Date().getFullYear()}{" "}
+          <span style={{ color: "#e4daec" }}>Yuya</span> all: ; right reserved
         </h4>
       </div>
     </footer>

@@ -1,3 +1,5 @@
+// This is for wrapping pages with Layout Components
+
 const React = require("react")
 const Layout = require("/src/components/Layout").default
 
